@@ -1,6 +1,22 @@
 h1 {
+  font-size: 50px;
+  font-weight: bold;
+  }
+
+h2 {
+font size: 30px;
+
 
 }
-h2 {
 
+img {
+  align-items: center;
+}
+
+body {
+  background-color: #E59400;
+  font-family: fantasy;
+  text-align: center;
+  background-image: url('../img/pumpkin.jpeg');
+  color: white;
 }
