@@ -11,10 +11,17 @@ img {
   align-items: center;
 }
 
+ul {
+  text-align: center;
+  list-style-position: inside;
+
+}
+
 body {
   background-color: #E59400;
   font-family: fantasy;
   text-align: center;
   background-image: url('../img/pumpkin.jpeg');
   color: white;
+
 }
